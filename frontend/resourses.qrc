@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resurses">
+        <file>images/open.png</file>
+        <file>images/icon.icns</file>
+        <file>images/3d.png</file>
+        <file>images/clean_all.png</file>
+        <file>images/basket.png</file>
+        <file>fronts/Quicksand-Bold.ttf</file>
+        <file>fronts/Quicksand-Medium.ttf</file>
+        <file>fronts/Quicksand-Regular.ttf</file>
+    </qresource>
+</RCC>
